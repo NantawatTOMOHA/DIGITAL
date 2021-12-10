@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="image">
+    <file>cil-window-minimize.png</file>
+    <file>cil-x.png</file>
+    <file>848.jpg.png</file>
+    <file>taz2.jpg.png</file>
+    <file>06.jpg.png</file>
+    <file>021-11-20 231521.jpg.png</file>
+    <file>G.png</file>
+    <file>FinaP2.jpg</file>
+    <file>223851.png</file>
+    <file>FinaP.jpg</file>
+    <file>v1016-b-08.jpg</file>
+    <file>Final725.jpg</file>
+  </qresource>
+</RCC>
